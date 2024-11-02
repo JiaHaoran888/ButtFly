@@ -1,0 +1,5047 @@
+fileFormatVersion: 2
+guid: 93bf301233266a74990dbd9a7f1f1bbc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5459721741906988528
+    second: Main_GUI_Atlas_0
+  - first:
+      213: 5750826568172603229
+    second: Main_GUI_Atlas_1
+  - first:
+      213: -1470103026172868880
+    second: Main_GUI_Atlas_2
+  - first:
+      213: -3912855121358059012
+    second: Main_GUI_Atlas_3
+  - first:
+      213: -1381065313389607446
+    second: Main_GUI_Atlas_4
+  - first:
+      213: 4688025445606045401
+    second: Main_GUI_Atlas_5
+  - first:
+      213: 3038129974754874172
+    second: Main_GUI_Atlas_6
+  - first:
+      213: 5554708215631671758
+    second: Main_GUI_Atlas_7
+  - first:
+      213: 8277040094555671685
+    second: Main_GUI_Atlas_8
+  - first:
+      213: 8807807292723294360
+    second: Main_GUI_Atlas_9
+  - first:
+      213: 5390858178410110404
+    second: Main_GUI_Atlas_10
+  - first:
+      213: -2092794130899769403
+    second: Main_GUI_Atlas_11
+  - first:
+      213: 6379854293758892117
+    second: Main_GUI_Atlas_12
+  - first:
+      213: 5284296683829684123
+    second: Main_GUI_Atlas_13
+  - first:
+      213: 7556096085722513223
+    second: Main_GUI_Atlas_14
+  - first:
+      213: 989347216069254802
+    second: Main_GUI_Atlas_15
+  - first:
+      213: -1287825401992299247
+    second: Main_GUI_Atlas_16
+  - first:
+      213: 4161338713112042181
+    second: Main_GUI_Atlas_17
+  - first:
+      213: -9177358192461256806
+    second: Main_GUI_Atlas_18
+  - first:
+      213: 6030269911237141432
+    second: Main_GUI_Atlas_19
+  - first:
+      213: 299377868771917817
+    second: Main_GUI_Atlas_20
+  - first:
+      213: 289800822573352546
+    second: Main_GUI_Atlas_21
+  - first:
+      213: 86003298513415538
+    second: Main_GUI_Atlas_22
+  - first:
+      213: 7135204056294475665
+    second: Main_GUI_Atlas_23
+  - first:
+      213: -2215702161350956877
+    second: Main_GUI_Atlas_24
+  - first:
+      213: -2796513374137079308
+    second: Main_GUI_Atlas_25
+  - first:
+      213: -3425702381853088286
+    second: Main_GUI_Atlas_26
+  - first:
+      213: 3517657398635969863
+    second: Main_GUI_Atlas_27
+  - first:
+      213: -8274716091366836778
+    second: Main_GUI_Atlas_28
+  - first:
+      213: -3245574263566771324
+    second: Main_GUI_Atlas_29
+  - first:
+      213: -6719636267906546730
+    second: Main_GUI_Atlas_30
+  - first:
+      213: 5733016165541796181
+    second: Main_GUI_Atlas_31
+  - first:
+      213: 21682561640563320
+    second: Main_GUI_Atlas_32
+  - first:
+      213: 8403564919045908155
+    second: Main_GUI_Atlas_33
+  - first:
+      213: 5725908621905613701
+    second: Main_GUI_Atlas_34
+  - first:
+      213: -5781263445978065857
+    second: Main_GUI_Atlas_35
+  - first:
+      213: 2330708711918044933
+    second: Main_GUI_Atlas_36
+  - first:
+      213: -5546633984975253230
+    second: Main_GUI_Atlas_37
+  - first:
+      213: 6134555513517287560
+    second: Main_GUI_Atlas_38
+  - first:
+      213: 4252421758040042595
+    second: Main_GUI_Atlas_39
+  - first:
+      213: -6529318718848487381
+    second: Main_GUI_Atlas_40
+  - first:
+      213: 943961915196985219
+    second: Main_GUI_Atlas_41
+  - first:
+      213: -1323882367103670332
+    second: Main_GUI_Atlas_42
+  - first:
+      213: 2322697712283029818
+    second: Main_GUI_Atlas_43
+  - first:
+      213: -1650134422488128254
+    second: Main_GUI_Atlas_44
+  - first:
+      213: -1501968597263198724
+    second: Main_GUI_Atlas_45
+  - first:
+      213: 8486652052616307557
+    second: Main_GUI_Atlas_46
+  - first:
+      213: -2216842683556335831
+    second: Main_GUI_Atlas_47
+  - first:
+      213: 7733021217023620765
+    second: Main_GUI_Atlas_48
+  - first:
+      213: 391778463806829945
+    second: Main_GUI_Atlas_49
+  - first:
+      213: -8897324491229438728
+    second: Main_GUI_Atlas_50
+  - first:
+      213: -3437192206278159099
+    second: Main_GUI_Atlas_51
+  - first:
+      213: 9081573098190872345
+    second: Main_GUI_Atlas_52
+  - first:
+      213: 1605278428605870775
+    second: Main_GUI_Atlas_53
+  - first:
+      213: 5025383166688501814
+    second: Main_GUI_Atlas_54
+  - first:
+      213: 5965656459166688995
+    second: Main_GUI_Atlas_55
+  - first:
+      213: -5201266694495323257
+    second: Main_GUI_Atlas_56
+  - first:
+      213: -1062155413581967015
+    second: Main_GUI_Atlas_57
+  - first:
+      213: -3794965135499957670
+    second: Main_GUI_Atlas_58
+  - first:
+      213: 2589247193258409469
+    second: Main_GUI_Atlas_59
+  - first:
+      213: -289037572600874958
+    second: Main_GUI_Atlas_60
+  - first:
+      213: -5751848405732810386
+    second: Main_GUI_Atlas_61
+  - first:
+      213: -1697247828058492889
+    second: Main_GUI_Atlas_62
+  - first:
+      213: 1139218669983450627
+    second: Main_GUI_Atlas_63
+  - first:
+      213: 4649479355064656229
+    second: Main_GUI_Atlas_64
+  - first:
+      213: 5203700037669536197
+    second: Main_GUI_Atlas_65
+  - first:
+      213: 6622424838642134141
+    second: Main_GUI_Atlas_66
+  - first:
+      213: -43216181261276156
+    second: Main_GUI_Atlas_67
+  - first:
+      213: 3854937612909244105
+    second: Main_GUI_Atlas_68
+  - first:
+      213: 5102894071409977083
+    second: Main_GUI_Atlas_69
+  - first:
+      213: -2598881797139756365
+    second: Main_GUI_Atlas_70
+  - first:
+      213: -204617554753147094
+    second: Main_GUI_Atlas_71
+  - first:
+      213: 7519609805519606334
+    second: Main_GUI_Atlas_72
+  - first:
+      213: 2244010433334372611
+    second: Main_GUI_Atlas_73
+  - first:
+      213: 6278436675072625784
+    second: Main_GUI_Atlas_74
+  - first:
+      213: 6900962726348058689
+    second: Main_GUI_Atlas_75
+  - first:
+      213: 402459995119132107
+    second: Main_GUI_Atlas_76
+  - first:
+      213: -5338884835453985848
+    second: Main_GUI_Atlas_77
+  - first:
+      213: -3975368524115109573
+    second: Main_GUI_Atlas_78
+  - first:
+      213: 82997453012847900
+    second: Main_GUI_Atlas_79
+  - first:
+      213: -1081509825726405652
+    second: Main_GUI_Atlas_80
+  - first:
+      213: -6716221758128549166
+    second: Main_GUI_Atlas_81
+  - first:
+      213: -2541364317434709320
+    second: Main_GUI_Atlas_82
+  - first:
+      213: -4590002885270469642
+    second: Main_GUI_Atlas_83
+  - first:
+      213: 841299016139853836
+    second: Main_GUI_Atlas_84
+  - first:
+      213: 4147804618417606745
+    second: Main_GUI_Atlas_85
+  - first:
+      213: -7935828238985241472
+    second: Main_GUI_Atlas_86
+  - first:
+      213: 393289635943782979
+    second: Main_GUI_Atlas_87
+  - first:
+      213: 7867647297929371135
+    second: Main_GUI_Atlas_88
+  - first:
+      213: -8014091862179433056
+    second: Main_GUI_Atlas_89
+  - first:
+      213: -4727754494162317911
+    second: Main_GUI_Atlas_90
+  - first:
+      213: 4148622714686156465
+    second: Main_GUI_Atlas_91
+  - first:
+      213: 1370585285980033135
+    second: Main_GUI_Atlas_92
+  - first:
+      213: 6005057303055858593
+    second: Main_GUI_Atlas_93
+  - first:
+      213: 7627259561726788403
+    second: Main_GUI_Atlas_94
+  - first:
+      213: -7076190302119651793
+    second: Main_GUI_Atlas_95
+  - first:
+      213: 2856607849674785977
+    second: Main_GUI_Atlas_96
+  - first:
+      213: -1531651235689402261
+    second: Main_GUI_Atlas_97
+  - first:
+      213: 7011467720516664414
+    second: Main_GUI_Atlas_98
+  - first:
+      213: -356651909986968310
+    second: Main_GUI_Atlas_99
+  - first:
+      213: 9053127050268472764
+    second: Main_GUI_Atlas_100
+  - first:
+      213: 70580891856323167
+    second: Main_GUI_Atlas_101
+  - first:
+      213: 8743318398071688624
+    second: Main_GUI_Atlas_102
+  - first:
+      213: 7124037664622099634
+    second: Main_GUI_Atlas_103
+  - first:
+      213: 2217179305453678681
+    second: Main_GUI_Atlas_104
+  - first:
+      213: -4671107545397333728
+    second: Main_GUI_Atlas_105
+  - first:
+      213: -1488054554722169735
+    second: Main_GUI_Atlas_106
+  - first:
+      213: 8200308329617611995
+    second: Main_GUI_Atlas_107
+  - first:
+      213: -3594065349958616930
+    second: Main_GUI_Atlas_108
+  - first:
+      213: -3473394526039042576
+    second: Main_GUI_Atlas_109
+  - first:
+      213: -79807524692970585
+    second: Main_GUI_Atlas_110
+  - first:
+      213: 3221054660478831575
+    second: Main_GUI_Atlas_111
+  - first:
+      213: 5917550123408373883
+    second: Main_GUI_Atlas_112
+  - first:
+      213: 6615081525785723107
+    second: Main_GUI_Atlas_113
+  - first:
+      213: -3900492687883964766
+    second: Main_GUI_Atlas_114
+  - first:
+      213: -4054323224505840575
+    second: Main_GUI_Atlas_115
+  - first:
+      213: -1181469038411163513
+    second: Main_GUI_Atlas_116
+  - first:
+      213: -1361457894900730160
+    second: Main_GUI_Atlas_117
+  - first:
+      213: 4277703797662067326
+    second: Main_GUI_Atlas_118
+  - first:
+      213: 7637882799600783113
+    second: Main_GUI_Atlas_119
+  - first:
+      213: -7240977850680177682
+    second: Main_GUI_Atlas_120
+  - first:
+      213: 3741784508712801663
+    second: Main_GUI_Atlas_121
+  - first:
+      213: -3607730726875993444
+    second: Main_GUI_Atlas_122
+  - first:
+      213: 996421258538337310
+    second: Main_GUI_Atlas_123
+  - first:
+      213: 6071647219099059942
+    second: Main_GUI_Atlas_124
+  - first:
+      213: 2219843230137790099
+    second: Main_GUI_Atlas_125
+  - first:
+      213: -3848041295837281809
+    second: Main_GUI_Atlas_126
+  - first:
+      213: -9058566929659100712
+    second: Main_GUI_Atlas_127
+  - first:
+      213: 111110655006944181
+    second: Main_GUI_Atlas_128
+  - first:
+      213: -987496570661053448
+    second: Main_GUI_Atlas_129
+  - first:
+      213: -2384414873660612194
+    second: Main_GUI_Atlas_130
+  - first:
+      213: -4840906498289760244
+    second: Main_GUI_Atlas_131
+  - first:
+      213: 8789363169420685410
+    second: Main_GUI_Atlas_132
+  - first:
+      213: -5762500050878978827
+    second: Main_GUI_Atlas_133
+  - first:
+      213: 1984347127574972363
+    second: Main_GUI_Atlas_134
+  - first:
+      213: 9182925404471516457
+    second: Main_GUI_Atlas_135
+  - first:
+      213: 1348429818345731572
+    second: Main_GUI_Atlas_136
+  - first:
+      213: -3556350762581218397
+    second: Main_GUI_Atlas_137
+  - first:
+      213: -6725715949077277572
+    second: Main_GUI_Atlas_138
+  - first:
+      213: 8005324850921648047
+    second: Main_GUI_Atlas_139
+  - first:
+      213: -3541689211333271594
+    second: Main_GUI_Atlas_140
+  - first:
+      213: 6453786026470006641
+    second: Main_GUI_Atlas_141
+  - first:
+      213: 4170934326392538536
+    second: Main_GUI_Atlas_142
+  - first:
+      213: 463828445471480235
+    second: Main_GUI_Atlas_143
+  - first:
+      213: 7573304177377196014
+    second: Main_GUI_Atlas_144
+  - first:
+      213: -1888688355412453356
+    second: Main_GUI_Atlas_145
+  - first:
+      213: -3815509786453990984
+    second: Main_GUI_Atlas_146
+  - first:
+      213: -5225069767880570095
+    second: Main_GUI_Atlas_147
+  - first:
+      213: 8398171140083718865
+    second: Main_GUI_Atlas_148
+  - first:
+      213: 4228644637637532753
+    second: Main_GUI_Atlas_149
+  - first:
+      213: 9218856038152841723
+    second: Main_GUI_Atlas_150
+  - first:
+      213: -2297097278031573403
+    second: Main_GUI_Atlas_151
+  - first:
+      213: -7967532619125589517
+    second: Main_GUI_Atlas_152
+  - first:
+      213: -1614354743551495989
+    second: Main_GUI_Atlas_153
+  - first:
+      213: -6449247094451738993
+    second: Main_GUI_Atlas_154
+  - first:
+      213: 200185641480353301
+    second: Main_GUI_Atlas_155
+  - first:
+      213: -7162403963295274403
+    second: Main_GUI_Atlas_156
+  - first:
+      213: 3184682899072846041
+    second: Main_GUI_Atlas_157
+  - first:
+      213: -732051891146230931
+    second: Main_GUI_Atlas_158
+  - first:
+      213: -7689927412461569538
+    second: Main_GUI_Atlas_159
+  - first:
+      213: -3101164649782298447
+    second: Main_GUI_Atlas_160
+  - first:
+      213: -1853627748714165023
+    second: Main_GUI_Atlas_161
+  - first:
+      213: 5504025514417318016
+    second: Main_GUI_Atlas_162
+  - first:
+      213: 6888221320898319173
+    second: Main_GUI_Atlas_163
+  - first:
+      213: 5395753652057619085
+    second: Main_GUI_Atlas_164
+  - first:
+      213: 8848944812429284236
+    second: Main_GUI_Atlas_165
+  - first:
+      213: -5728910780408165375
+    second: Main_GUI_Atlas_166
+  - first:
+      213: 5524986319792102726
+    second: Main_GUI_Atlas_167
+  - first:
+      213: 1194509576450473163
+    second: Main_GUI_Atlas_168
+  - first:
+      213: -8456672405019183081
+    second: Main_GUI_Atlas_169
+  - first:
+      213: 1618395460141363222
+    second: Main_GUI_Atlas_170
+  - first:
+      213: -1215299321292687047
+    second: Main_GUI_Atlas_171
+  - first:
+      213: 3735027752732309599
+    second: Main_GUI_Atlas_172
+  - first:
+      213: 5740989344915853686
+    second: Main_GUI_Atlas_173
+  - first:
+      213: 6532647917685833120
+    second: Main_GUI_Atlas_174
+  - first:
+      213: 3138089248748135930
+    second: Main_GUI_Atlas_175
+  - first:
+      213: 9068472312067009463
+    second: Main_GUI_Atlas_176
+  - first:
+      213: 7043171814647617825
+    second: Main_GUI_Atlas_177
+  - first:
+      213: 7271602167055915885
+    second: Main_GUI_Atlas_178
+  - first:
+      213: 3301549116154478400
+    second: Main_GUI_Atlas_179
+  - first:
+      213: 7414231096881417090
+    second: Main_GUI_Atlas_180
+  - first:
+      213: 8851554604955418538
+    second: Main_GUI_Atlas_181
+  - first:
+      213: -2525398191151877107
+    second: Main_GUI_Atlas_182
+  - first:
+      213: 7841148935783987349
+    second: Main_GUI_Atlas_183
+  - first:
+      213: 6249378219963899949
+    second: Main_GUI_Atlas_184
+  - first:
+      213: 5655965171488407002
+    second: Main_GUI_Atlas_185
+  - first:
+      213: -261325938465508075
+    second: Main_GUI_Atlas_186
+  - first:
+      213: 4347983187631316102
+    second: Main_GUI_Atlas_187
+  - first:
+      213: -6226649015400558621
+    second: Main_GUI_Atlas_188
+  - first:
+      213: -6370976452258936998
+    second: Main_GUI_Atlas_189
+  - first:
+      213: 2523070268430316665
+    second: Main_GUI_Atlas_190
+  - first:
+      213: 7497360603362928007
+    second: Main_GUI_Atlas_191
+  - first:
+      213: 5845369017229760581
+    second: Main_GUI_Atlas_192
+  - first:
+      213: 5034277208484764673
+    second: Main_GUI_Atlas_193
+  - first:
+      213: -5515751339639056166
+    second: Main_GUI_Atlas_194
+  - first:
+      213: 6700379745183099768
+    second: Main_GUI_Atlas_195
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1005
+        width: 92
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdc7d65ff3d4cb40800000000000000
+      internalID: 5459721741906988528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 991
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d578ec86b4a0fcf40800000000000000
+      internalID: 5750826568172603229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 991
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f64dbd2615299be0800000000000000
+      internalID: -1470103026172868880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 998
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf982e19ffeb2b9c0800000000000000
+      internalID: -3912855121358059012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 991
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae58cc72a6875dce0800000000000000
+      internalID: -1381065313389607446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 878
+        width: 56
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d63757fd463f0140800000000000000
+      internalID: 4688025445606045401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 970
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c331bb68d1b992a20800000000000000
+      internalID: 3038129974754874172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 990
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec17ba721b9461d40800000000000000
+      internalID: 5554708215631671758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 990
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c08a3cc14fdd270800000000000000
+      internalID: 8277040094555671685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 959
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890fdd4211e9b3a70800000000000000
+      internalID: 8807807292723294360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 877
+        width: 93
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdd4a683fc20da40800000000000000
+      internalID: 5390858178410110404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 991
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c762b773d6e4f2e0800000000000000
+      internalID: -2092794130899769403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 955
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558df32adabc98850800000000000000
+      internalID: 6379854293758892117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 877
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97617726d7955940800000000000000
+      internalID: 5284296683829684123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 916
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fb5362b55acd860800000000000000
+      internalID: 7556096085722513223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 921
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e545d1d0edabd00800000000000000
+      internalID: 989347216069254802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 900
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d368dbe99b02ee0800000000000000
+      internalID: -1287825401992299247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 908
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cadf19038b00c930800000000000000
+      internalID: 4161338713112042181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 943
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9763d1095973a080800000000000000
+      internalID: -9177358192461256806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 921
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b32407d882dfa350800000000000000
+      internalID: 6030269911237141432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 895
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff73c1e59a972400800000000000000
+      internalID: 299377868771917817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 812
+        width: 190
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266c91d0054950400800000000000000
+      internalID: 289800822573352546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 812
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d67695b8b813100800000000000000
+      internalID: 86003298513415538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 858
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197cb570946550360800000000000000
+      internalID: 7135204056294475665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 855
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b86c90af9e3041e0800000000000000
+      internalID: -2215702161350956877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 850
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f92eec17e9c039d0800000000000000
+      internalID: -2796513374137079308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 872
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5ef6775d57570d0800000000000000
+      internalID: -3425702381853088286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 848
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74db83744ca31d030800000000000000
+      internalID: 3517657398635969863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 800
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5fed46e8d4a2d80800000000000000
+      internalID: -8274716091366836778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 794
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bd3ff276765f2d0800000000000000
+      internalID: -3245574263566771324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 782
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3499f9a6e0fb2a0800000000000000
+      internalID: -6719636267906546730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 836
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559d0b6e3d3cf8f40800000000000000
+      internalID: 5733016165541796181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 799
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8720868cc280d4000800000000000000
+      internalID: 21682561640563320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 710
+        width: 134
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb66aa615c57f9470800000000000000
+      internalID: 8403564919045908155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 798
+        width: 102
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583d701fd83867f40800000000000000
+      internalID: 5725908621905613701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 798
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34d68db683d4cfa0800000000000000
+      internalID: -5781263445978065857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 800
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50788c09937585020800000000000000
+      internalID: 2330708711918044933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 800
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211d07a27c56603b0800000000000000
+      internalID: -5546633984975253230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 710
+        width: 112
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888ac1ebcb1522550800000000000000
+      internalID: 6134555513517287560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 788
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c6e130f03a30b30800000000000000
+      internalID: 4252421758040042595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 722
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b203ab118333365a0800000000000000
+      internalID: -6529318718848487381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 764
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f40dc4c50a91d00800000000000000
+      internalID: 943961915196985219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 751
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7e1685000a0ade0800000000000000
+      internalID: -1323882367103670332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 768
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a311e3d5341eb3020800000000000000
+      internalID: 2322697712283029818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 723
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20563fb4c7b8919e0800000000000000
+      internalID: -1650134422488128254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 724
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5d550c48fe72be0800000000000000
+      internalID: -1501968597263198724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 748
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563e880e315a6c570800000000000000
+      internalID: 8486652052616307557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 728
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f63bb13513c31e0800000000000000
+      internalID: -2216842683556335831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 703
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96704953d5315b60800000000000000
+      internalID: 7733021217023620765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 742
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975bad5ef60ef6500800000000000000
+      internalID: 391778463806829945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 710
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcd2e8e38a568480800000000000000
+      internalID: -8897324491229438728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 627
+        width: 46
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5059c0046e3ac40d0800000000000000
+      internalID: -3437192206278159099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 644
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f1967dd9a380e70800000000000000
+      internalID: 9081573098190872345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 661
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b276a6c938174610800000000000000
+      internalID: 1605278428605870775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 688
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63022be4d5fbdb540800000000000000
+      internalID: 5025383166688501814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 620
+        width: 149
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e625a431f44ac250800000000000000
+      internalID: 5965656459166688995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 614
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b3984bf7361d7b0800000000000000
+      internalID: -5201266694495323257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 698
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951503567477241f0800000000000000
+      internalID: -1062155413581967015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 698
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a688bd053955bc0800000000000000
+      internalID: -3794965135499957670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 655
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd38d59a9adee320800000000000000
+      internalID: 2589247193258409469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 614
+        width: 18
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238326eebd12dfbf0800000000000000
+      internalID: -289037572600874958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 565
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61266e79545d20b0800000000000000
+      internalID: -5751848405732810386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 428
+        width: 12
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72035c0c71a2278e0800000000000000
+      internalID: -1697247828058492889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 581
+        width: 29
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3064bd138515fcf00800000000000000
+      internalID: 1139218669983450627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 634
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5612425e6d4468040800000000000000
+      internalID: 4649479355064656229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 607
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1caf62d91473840800000000000000
+      internalID: 5203700037669536197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 589
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cecfabd4497eb50800000000000000
+      internalID: 6622424838642134141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 158
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c6f53bc17766ff0800000000000000
+      internalID: -43216181261276156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 606
+        width: 50
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce6fb8a55d7f7530800000000000000
+      internalID: 3854937612909244105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 606
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6a6d42f1f11d640800000000000000
+      internalID: 5102894071409977083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 600
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba814466caeeebd0800000000000000
+      internalID: -2598881797139756365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 399
+        width: 15
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f21260b6d092df0800000000000000
+      internalID: -204617554753147094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 399
+        width: 30
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e325a8b07450b5860800000000000000
+      internalID: 7519609805519606334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 550
+        width: 25
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3096a2f8993542f10800000000000000
+      internalID: 2244010433334372611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 594
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c0d7234ec712750800000000000000
+      internalID: 6278436675072625784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 517
+        width: 79
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140ff28690525cf50800000000000000
+      internalID: 6900962726348058689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 514
+        width: 11
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd9165bb33d59500800000000000000
+      internalID: 402459995119132107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 486
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb9b0e578878e5b0800000000000000
+      internalID: -5338884835453985848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_78
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 501
+        width: 29
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3999d4c367a4d8c0800000000000000
+      internalID: -3975368524115109573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_79
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 554
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dc7186ebdd62100800000000000000
+      internalID: 82997453012847900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_80
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 548
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3ab782b84bdf0f0800000000000000
+      internalID: -1081509825726405652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_81
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 541
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d29ff125ef2bc2a0800000000000000
+      internalID: -6716221758128549166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_82
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 542
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba73763e924bbcd0800000000000000
+      internalID: -2541364317434709320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_83
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 541
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f38f69d1b80d40c0800000000000000
+      internalID: -4590002885270469642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_84
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 541
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00d6ee6ff4ecab00800000000000000
+      internalID: 841299016139853836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 158
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950918e0356ff8930800000000000000
+      internalID: 4147804618417606745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_86
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 501
+        width: 86
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c55c033464ed190800000000000000
+      internalID: -7935828238985241472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_87
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 501
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a954417de357500800000000000000
+      internalID: 393289635943782979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_88
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 474
+        width: 25
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd542b688f7f2d60800000000000000
+      internalID: 7867647297929371135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_89
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 498
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5327d69e938c090800000000000000
+      internalID: -8014091862179433056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_90
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 496
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adc2361654a36eb0800000000000000
+      internalID: -4727754494162317911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_91
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 497
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be2cffe06ed29930800000000000000
+      internalID: 4148622714686156465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_92
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 496
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6097315e0c450310800000000000000
+      internalID: 1370585285980033135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_93
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 496
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab728c0dcf365350800000000000000
+      internalID: 6005057303055858593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_94
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 496
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3334d62192879d960800000000000000
+      internalID: 7627259561726788403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_95
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 496
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26181759625ccd90800000000000000
+      internalID: -7076190302119651793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_96
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 496
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4457e44b5b4a720800000000000000
+      internalID: 2856607849674785977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_97
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 496
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60f1f0f05b7ebae0800000000000000
+      internalID: -1531651235689402261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_98
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 496
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c73835ebcbd4160800000000000000
+      internalID: 7011467720516664414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_99
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 502
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d13cc3afaec0bf0800000000000000
+      internalID: -356651909986968310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_100
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 496
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb57bb1361b23ad70800000000000000
+      internalID: 9053127050268472764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_101
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 496
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52c60b72f0caf000800000000000000
+      internalID: 70580891856323167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_102
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 496
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd433b42c1865970800000000000000
+      internalID: 8743318398071688624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_103
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 496
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcbd4ed28aadd260800000000000000
+      internalID: 7124037664622099634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_104
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 414
+        width: 99
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950f9e8c4d005ce10800000000000000
+      internalID: 2217179305453678681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_105
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 408
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021f1f0af64ec2fb0800000000000000
+      internalID: -4671107545397333728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_106
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 428
+        width: 36
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c026b344e595be0800000000000000
+      internalID: -1488054554722169735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_107
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 428
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcd88b8af85dc170800000000000000
+      internalID: 8200308329617611995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_108
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 462
+        width: 78
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e983d2c3b905f1ec0800000000000000
+      internalID: -3594065349958616930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_109
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 462
+        width: 78
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f518a6d4160ccfc0800000000000000
+      internalID: -3473394526039042576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_110
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 462
+        width: 78
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3b548aa7774eef0800000000000000
+      internalID: -79807524692970585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_111
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 462
+        width: 78
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db05f7d52c73bc20800000000000000
+      internalID: 3221054660478831575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_112
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 462
+        width: 78
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7833561c7c5f1250800000000000000
+      internalID: 5917550123408373883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_113
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 462
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e005b8799d7dcb50800000000000000
+      internalID: 6615081525785723107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_114
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 462
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aeeaa9e09aaed9c0800000000000000
+      internalID: -3900492687883964766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_115
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 469
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c86be02862cb7c0800000000000000
+      internalID: -4054323224505840575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_116
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 462
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78851645b249a9fe0800000000000000
+      internalID: -1181469038411163513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_117
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 428
+        width: 78
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d67ac502412b1de0800000000000000
+      internalID: -1361457894900730160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_118
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 428
+        width: 78
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7aacf190f47d5b30800000000000000
+      internalID: 4277703797662067326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_119
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 428
+        width: 78
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f454260f53ff960800000000000000
+      internalID: 7637882799600783113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_120
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 428
+        width: 78
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb8cb75201e28b90800000000000000
+      internalID: -7240977850680177682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_121
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 428
+        width: 78
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75d2e39f2d7de330800000000000000
+      internalID: 3741784508712801663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_122
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 428
+        width: 78
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a6b4bb404ceedc0800000000000000
+      internalID: -3607730726875993444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_123
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 428
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1443d9fadff3dd00800000000000000
+      internalID: 996421258538337310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 227
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e643ef0af2d24450800000000000000
+      internalID: 6071647219099059942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_125
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 364
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e2b6518a77ece10800000000000000
+      internalID: 2219843230137790099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_126
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 267
+        width: 64
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1c59844d2099ac0800000000000000
+      internalID: -3848041295837281809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_127
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 330
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1819f2f51894280800000000000000
+      internalID: -9058566929659100712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_128
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 378
+        width: 79
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb23725d8eba8100800000000000000
+      internalID: 111110655006944181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_129
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 378
+        width: 82
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbd4d8d915bb42f0800000000000000
+      internalID: -987496570661053448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_130
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 378
+        width: 78
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e912d4a3e4bd8eed0800000000000000
+      internalID: -2384414873660612194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_131
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 378
+        width: 78
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c080f822035a1dcb0800000000000000
+      internalID: -4840906498289760244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_132
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 378
+        width: 78
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260b83b0c371af970800000000000000
+      internalID: 8789363169420685410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_133
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 378
+        width: 78
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f420391cbc7700b0800000000000000
+      internalID: -5762500050878978827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_134
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 378
+        width: 78
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc74c22f231d98b10800000000000000
+      internalID: 1984347127574972363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_135
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 381
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d5f6c800e407f70800000000000000
+      internalID: 9182925404471516457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_136
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 284
+        width: 29
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5ba0786c596b210800000000000000
+      internalID: 1348429818345731572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_137
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 330
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab28a3e2dd45aec0800000000000000
+      internalID: -3556350762581218397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_138
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 330
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74d11b8af479a2a0800000000000000
+      internalID: -6725715949077277572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_139
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 330
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafaac2b980a81f60800000000000000
+      internalID: 8005324850921648047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_140
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 330
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df95ad4d6469dec0800000000000000
+      internalID: -3541689211333271594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_141
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 330
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fdf1c8234709950800000000000000
+      internalID: 6453786026470006641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_142
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 354
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a54c1adba222e930800000000000000
+      internalID: 4170934326392538536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_143
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 354
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba99c018389df6600800000000000000
+      internalID: 463828445471480235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_144
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 354
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7bc843608c91960800000000000000
+      internalID: 7573304177377196014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_145
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 354
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418593c82f70ac5e0800000000000000
+      internalID: -1888688355412453356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_146
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 354
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1226d80169c0bc0800000000000000
+      internalID: -3815509786453990984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_147
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 330
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b88decab2dc77b0800000000000000
+      internalID: -5225069767880570095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_148
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 330
+        width: 146
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da90af082c4c8470800000000000000
+      internalID: 8398171140083718865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 264
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cdeb3c4e92faa30800000000000000
+      internalID: 4228644637637532753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_150
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 267
+        width: 95
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9a09d19b4ffef70800000000000000
+      internalID: 9218856038152841723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_151
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 267
+        width: 95
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e496832321f10e0800000000000000
+      internalID: -2297097278031573403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_152
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 267
+        width: 95
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f97ea4fb43ad6190800000000000000
+      internalID: -7967532619125589517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_153
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 267
+        width: 95
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc07529f9e8a899e0800000000000000
+      internalID: -1614354743551495989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_154
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 267
+        width: 95
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86eb7aefebaf76a0800000000000000
+      internalID: -6449247094451738993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_155
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 267
+        width: 95
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516f191c7c337c200800000000000000
+      internalID: 200185641480353301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_156
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 267
+        width: 84
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a6fed1b870a9c90800000000000000
+      internalID: -7162403963295274403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_157
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 267
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d88f793934423c20800000000000000
+      internalID: 3184682899072846041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_158
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 246
+        width: 392
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63731ffeaa37d5f0800000000000000
+      internalID: -732051891146230931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_159
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 246
+        width: 160
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef970b7e2c3e74590800000000000000
+      internalID: -7689927412461569538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_160
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 246
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b83ab38e2376f4d0800000000000000
+      internalID: -3101164649782298447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_161
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 246
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecc51c22679646e0800000000000000
+      internalID: -1853627748714165023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_162
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 246
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088e7853b0a326c40800000000000000
+      internalID: 5504025514417318016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_163
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 246
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5439a66cbc0e79f50800000000000000
+      internalID: 6888221320898319173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_164
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 246
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a396ecb5191ea40800000000000000
+      internalID: 5395753652057619085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_165
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 246
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8312e55c64cdca70800000000000000
+      internalID: 8848944812429284236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_166
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 246
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c8ddf8ff1de70b0800000000000000
+      internalID: -5728910780408165375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_167
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 224
+        width: 392
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dd91409c1bcac40800000000000000
+      internalID: 5524986319792102726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_168
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 224
+        width: 148
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccf1298120c39010800000000000000
+      internalID: 1194509576450473163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_169
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 224
+        width: 160
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718bbf4c04dd3aa80800000000000000
+      internalID: -8456672405019183081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_170
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 224
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610b4dba812b57610800000000000000
+      internalID: 1618395460141363222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_171
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 224
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939739ac4b3622fe0800000000000000
+      internalID: -1215299321292687047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_172
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 108
+        width: 86
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58b5dbb3fb75d330800000000000000
+      internalID: 3735027752732309599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_173
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 174
+        width: 106
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671130364671caf40800000000000000
+      internalID: 5740989344915853686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_174
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 173
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adfb507ba0a8aa50800000000000000
+      internalID: 6532647917685833120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_175
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 173
+        width: 79
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5ea11ab8bbc8b20800000000000000
+      internalID: 3138089248748135930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_176
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 173
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb2830658fa9dd70800000000000000
+      internalID: 9068472312067009463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_177
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 144
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1295d18f27f5eb160800000000000000
+      internalID: 7043171814647617825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_178
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 144
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b1453f4abe9e460800000000000000
+      internalID: 7271602167055915885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_179
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 201
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f74e4cd6571dd20800000000000000
+      internalID: 3301549116154478400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_180
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 201
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b854c76e3a4e660800000000000000
+      internalID: 7414231096881417090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_181
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 195
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf3752040a07da70800000000000000
+      internalID: 8851554604955418538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_182
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 192
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d047afba9bbf3fcd0800000000000000
+      internalID: -2525398191151877107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_183
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5983654b96b51dc60800000000000000
+      internalID: 7841148935783987349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_184
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 204
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20e20461604ab650800000000000000
+      internalID: 6249378219963899949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_185
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 108
+        width: 142
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add3c8c5b560e7e40800000000000000
+      internalID: 5655965171488407002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_186
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 108
+        width: 143
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515fa2b81759f5cf0800000000000000
+      internalID: -261325938465508075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_187
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 144
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c922c2ca3275c30800000000000000
+      internalID: 4347983187631316102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_188
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 108
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef8300f5bf7699a0800000000000000
+      internalID: -6226649015400558621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_189
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 108
+        width: 36
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a574abaebaeb597a0800000000000000
+      internalID: -6370976452258936998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_190
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 946
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97473259a0fb30320800000000000000
+      internalID: 2523070268430316665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_191
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 108
+        width: 242
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785a47cfeb9fb0860800000000000000
+      internalID: 7497360603362928007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_192
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 81
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548dd0da62cee1150800000000000000
+      internalID: 5845369017229760581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_193
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 81
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c5498c2785dd540800000000000000
+      internalID: 5034277208484764673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_194
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 81
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8dd6b516d1473b0800000000000000
+      internalID: -5515751339639056166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_GUI_Atlas_195
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 0
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b6cdbc0e78cfc50800000000000000
+      internalID: 6700379745183099768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Main_GUI_Atlas_136: 1348429818345731572
+      Main_GUI_Atlas_188: -6226649015400558621
+      Main_GUI_Atlas_153: -1614354743551495989
+      Main_GUI_Atlas_33: 8403564919045908155
+      Main_GUI_Atlas_44: -1650134422488128254
+      Main_GUI_Atlas_45: -1501968597263198724
+      Main_GUI_Atlas_109: -3473394526039042576
+      Main_GUI_Atlas_194: -5515751339639056166
+      Main_GUI_Atlas_182: -2525398191151877107
+      Main_GUI_Atlas_8: 8277040094555671685
+      Main_GUI_Atlas_71: -204617554753147094
+      Main_GUI_Atlas_148: 8398171140083718865
+      Main_GUI_Atlas_152: -7967532619125589517
+      Main_GUI_Atlas_0: 5459721741906988528
+      Main_GUI_Atlas_119: 7637882799600783113
+      Main_GUI_Atlas_27: 3517657398635969863
+      Main_GUI_Atlas_48: 7733021217023620765
+      Main_GUI_Atlas_157: 3184682899072846041
+      Main_GUI_Atlas_126: -3848041295837281809
+      Main_GUI_Atlas_14: 7556096085722513223
+      Main_GUI_Atlas_47: -2216842683556335831
+      Main_GUI_Atlas_91: 4148622714686156465
+      Main_GUI_Atlas_123: 996421258538337310
+      Main_GUI_Atlas_116: -1181469038411163513
+      Main_GUI_Atlas_163: 6888221320898319173
+      Main_GUI_Atlas_51: -3437192206278159099
+      Main_GUI_Atlas_61: -5751848405732810386
+      Main_GUI_Atlas_74: 6278436675072625784
+      Main_GUI_Atlas_162: 5504025514417318016
+      Main_GUI_Atlas_138: -6725715949077277572
+      Main_GUI_Atlas_134: 1984347127574972363
+      Main_GUI_Atlas_101: 70580891856323167
+      Main_GUI_Atlas_102: 8743318398071688624
+      Main_GUI_Atlas_30: -6719636267906546730
+      Main_GUI_Atlas_165: 8848944812429284236
+      Main_GUI_Atlas_147: -5225069767880570095
+      Main_GUI_Atlas_85: 4147804618417606745
+      Main_GUI_Atlas_70: -2598881797139756365
+      Main_GUI_Atlas_57: -1062155413581967015
+      Main_GUI_Atlas_2: -1470103026172868880
+      Main_GUI_Atlas_20: 299377868771917817
+      Main_GUI_Atlas_125: 2219843230137790099
+      Main_GUI_Atlas_137: -3556350762581218397
+      Main_GUI_Atlas_40: -6529318718848487381
+      Main_GUI_Atlas_49: 391778463806829945
+      Main_GUI_Atlas_39: 4252421758040042595
+      Main_GUI_Atlas_140: -3541689211333271594
+      Main_GUI_Atlas_18: -9177358192461256806
+      Main_GUI_Atlas_186: -261325938465508075
+      Main_GUI_Atlas_12: 6379854293758892117
+      Main_GUI_Atlas_34: 5725908621905613701
+      Main_GUI_Atlas_78: -3975368524115109573
+      Main_GUI_Atlas_10: 5390858178410110404
+      Main_GUI_Atlas_32: 21682561640563320
+      Main_GUI_Atlas_108: -3594065349958616930
+      Main_GUI_Atlas_164: 5395753652057619085
+      Main_GUI_Atlas_96: 2856607849674785977
+      Main_GUI_Atlas_17: 4161338713112042181
+      Main_GUI_Atlas_185: 5655965171488407002
+      Main_GUI_Atlas_64: 4649479355064656229
+      Main_GUI_Atlas_127: -9058566929659100712
+      Main_GUI_Atlas_110: -79807524692970585
+      Main_GUI_Atlas_46: 8486652052616307557
+      Main_GUI_Atlas_130: -2384414873660612194
+      Main_GUI_Atlas_158: -732051891146230931
+      Main_GUI_Atlas_76: 402459995119132107
+      Main_GUI_Atlas_79: 82997453012847900
+      Main_GUI_Atlas_161: -1853627748714165023
+      Main_GUI_Atlas_93: 6005057303055858593
+      Main_GUI_Atlas_86: -7935828238985241472
+      Main_GUI_Atlas_92: 1370585285980033135
+      Main_GUI_Atlas_107: 8200308329617611995
+      Main_GUI_Atlas_24: -2215702161350956877
+      Main_GUI_Atlas_84: 841299016139853836
+      Main_GUI_Atlas_159: -7689927412461569538
+      Main_GUI_Atlas_95: -7076190302119651793
+      Main_GUI_Atlas_103: 7124037664622099634
+      Main_GUI_Atlas_104: 2217179305453678681
+      Main_GUI_Atlas_124: 6071647219099059942
+      Main_GUI_Atlas_154: -6449247094451738993
+      Main_GUI_Atlas_160: -3101164649782298447
+      Main_GUI_Atlas_187: 4347983187631316102
+      Main_GUI_Atlas_90: -4727754494162317911
+      Main_GUI_Atlas_175: 3138089248748135930
+      Main_GUI_Atlas_169: -8456672405019183081
+      Main_GUI_Atlas_129: -987496570661053448
+      Main_GUI_Atlas_189: -6370976452258936998
+      Main_GUI_Atlas_106: -1488054554722169735
+      Main_GUI_Atlas_63: 1139218669983450627
+      Main_GUI_Atlas_36: 2330708711918044933
+      Main_GUI_Atlas_121: 3741784508712801663
+      Main_GUI_Atlas_143: 463828445471480235
+      Main_GUI_Atlas_99: -356651909986968310
+      Main_GUI_Atlas_150: 9218856038152841723
+      Main_GUI_Atlas_73: 2244010433334372611
+      Main_GUI_Atlas_22: 86003298513415538
+      Main_GUI_Atlas_172: 3735027752732309599
+      Main_GUI_Atlas_59: 2589247193258409469
+      Main_GUI_Atlas_178: 7271602167055915885
+      Main_GUI_Atlas_21: 289800822573352546
+      Main_GUI_Atlas_42: -1323882367103670332
+      Main_GUI_Atlas_9: 8807807292723294360
+      Main_GUI_Atlas_11: -2092794130899769403
+      Main_GUI_Atlas_139: 8005324850921648047
+      Main_GUI_Atlas_133: -5762500050878978827
+      Main_GUI_Atlas_66: 6622424838642134141
+      Main_GUI_Atlas_41: 943961915196985219
+      Main_GUI_Atlas_7: 5554708215631671758
+      Main_GUI_Atlas_128: 111110655006944181
+      Main_GUI_Atlas_77: -5338884835453985848
+      Main_GUI_Atlas_113: 6615081525785723107
+      Main_GUI_Atlas_149: 4228644637637532753
+      Main_GUI_Atlas_52: 9081573098190872345
+      Main_GUI_Atlas_6: 3038129974754874172
+      Main_GUI_Atlas_174: 6532647917685833120
+      Main_GUI_Atlas_28: -8274716091366836778
+      Main_GUI_Atlas_167: 5524986319792102726
+      Main_GUI_Atlas_65: 5203700037669536197
+      Main_GUI_Atlas_82: -2541364317434709320
+      Main_GUI_Atlas_15: 989347216069254802
+      Main_GUI_Atlas_3: -3912855121358059012
+      Main_GUI_Atlas_35: -5781263445978065857
+      Main_GUI_Atlas_87: 393289635943782979
+      Main_GUI_Atlas_190: 2523070268430316665
+      Main_GUI_Atlas_97: -1531651235689402261
+      Main_GUI_Atlas_184: 6249378219963899949
+      Main_GUI_Atlas_72: 7519609805519606334
+      Main_GUI_Atlas_16: -1287825401992299247
+      Main_GUI_Atlas_29: -3245574263566771324
+      Main_GUI_Atlas_195: 6700379745183099768
+      Main_GUI_Atlas_75: 6900962726348058689
+      Main_GUI_Atlas_60: -289037572600874958
+      Main_GUI_Atlas_89: -8014091862179433056
+      Main_GUI_Atlas_180: 7414231096881417090
+      Main_GUI_Atlas_142: 4170934326392538536
+      Main_GUI_Atlas_1: 5750826568172603229
+      Main_GUI_Atlas_26: -3425702381853088286
+      Main_GUI_Atlas_5: 4688025445606045401
+      Main_GUI_Atlas_69: 5102894071409977083
+      Main_GUI_Atlas_117: -1361457894900730160
+      Main_GUI_Atlas_177: 7043171814647617825
+      Main_GUI_Atlas_23: 7135204056294475665
+      Main_GUI_Atlas_131: -4840906498289760244
+      Main_GUI_Atlas_132: 8789363169420685410
+      Main_GUI_Atlas_191: 7497360603362928007
+      Main_GUI_Atlas_146: -3815509786453990984
+      Main_GUI_Atlas_155: 200185641480353301
+      Main_GUI_Atlas_151: -2297097278031573403
+      Main_GUI_Atlas_135: 9182925404471516457
+      Main_GUI_Atlas_68: 3854937612909244105
+      Main_GUI_Atlas_13: 5284296683829684123
+      Main_GUI_Atlas_179: 3301549116154478400
+      Main_GUI_Atlas_114: -3900492687883964766
+      Main_GUI_Atlas_166: -5728910780408165375
+      Main_GUI_Atlas_53: 1605278428605870775
+      Main_GUI_Atlas_62: -1697247828058492889
+      Main_GUI_Atlas_173: 5740989344915853686
+      Main_GUI_Atlas_83: -4590002885270469642
+      Main_GUI_Atlas_56: -5201266694495323257
+      Main_GUI_Atlas_98: 7011467720516664414
+      Main_GUI_Atlas_55: 5965656459166688995
+      Main_GUI_Atlas_181: 8851554604955418538
+      Main_GUI_Atlas_67: -43216181261276156
+      Main_GUI_Atlas_19: 6030269911237141432
+      Main_GUI_Atlas_58: -3794965135499957670
+      Main_GUI_Atlas_100: 9053127050268472764
+      Main_GUI_Atlas_145: -1888688355412453356
+      Main_GUI_Atlas_105: -4671107545397333728
+      Main_GUI_Atlas_171: -1215299321292687047
+      Main_GUI_Atlas_31: 5733016165541796181
+      Main_GUI_Atlas_141: 6453786026470006641
+      Main_GUI_Atlas_156: -7162403963295274403
+      Main_GUI_Atlas_176: 9068472312067009463
+      Main_GUI_Atlas_170: 1618395460141363222
+      Main_GUI_Atlas_118: 4277703797662067326
+      Main_GUI_Atlas_144: 7573304177377196014
+      Main_GUI_Atlas_183: 7841148935783987349
+      Main_GUI_Atlas_192: 5845369017229760581
+      Main_GUI_Atlas_111: 3221054660478831575
+      Main_GUI_Atlas_193: 5034277208484764673
+      Main_GUI_Atlas_43: 2322697712283029818
+      Main_GUI_Atlas_94: 7627259561726788403
+      Main_GUI_Atlas_120: -7240977850680177682
+      Main_GUI_Atlas_25: -2796513374137079308
+      Main_GUI_Atlas_112: 5917550123408373883
+      Main_GUI_Atlas_168: 1194509576450473163
+      Main_GUI_Atlas_4: -1381065313389607446
+      Main_GUI_Atlas_88: 7867647297929371135
+      Main_GUI_Atlas_115: -4054323224505840575
+      Main_GUI_Atlas_54: 5025383166688501814
+      Main_GUI_Atlas_38: 6134555513517287560
+      Main_GUI_Atlas_37: -5546633984975253230
+      Main_GUI_Atlas_80: -1081509825726405652
+      Main_GUI_Atlas_50: -8897324491229438728
+      Main_GUI_Atlas_81: -6716221758128549166
+      Main_GUI_Atlas_122: -3607730726875993444
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
